@@ -32,3 +32,4 @@ begin
         end;
         writeln('f=',st[1]-1);
 end.
+
